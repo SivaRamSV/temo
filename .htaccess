@@ -1,0 +1,2 @@
+
+RewriteRule ^getfile/([^/.]+)/?$ getfile.php?pg=$1 [L]
